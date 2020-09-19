@@ -1,22 +1,9 @@
-ketik : git status
-ketik : git add demo.txt(tambahkan file yg ada di folder test)
-ketik : git commit -m "comitting a text" / git commit -m "first commit" filename
-ketik : git config --global user.username Anom78-github (Anom78=user name yg dibuat di github website)
-ketik : git remote add origin (https://github.com/Anom78-github/text_demo.txt) = cara  membuat repositori baru
-ketik : git push origin master
+cara membuat flasdisk bebas virus dengan mengisi folder autorun
 
-
-
-cara lainnya
-ketik : cd
-ketik : cd/c
-ketik : ls (melihat dimana folder)
-ketik : cd filename/
-ketik : ls
-ketik : git config --global user.name"Anom78" (Anom78 = usernamegithub)
-ketik : git config --global user.email (nama email)
-ketik : git clone https://github.com/Anom78/test_Demo.git (Anom78 = username) (test_Demo = fileame repository)
-
-tranfer file to github account
-git push -u origin master
-gig
+1.buka cmd
+2.ketik Folder usb tempat flashdisk ditancapkan
+3.ketik DIR
+4.ketik mkdir Autorun.inf
+5.ketik CD Autorun.inf
+6.ketik md aux\
+7.selesai
